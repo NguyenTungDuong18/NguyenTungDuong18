@@ -1,15 +1,14 @@
 <h1 align="center">
-  <b>Welcome to My Learning and Building Journey! 👋🏻</b>
+  <b>
+    <span style="font-family: 'Times New Roman', Times, serif; color: #F5E6C8; font-weight: 800;">
+      Welcome to My Learning and Building Journey!
+    </span>
+  </b>
 </h1>
-
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Berlin+Sans+FB&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Greetings+%F0%9F%91%8B;My+full+name+is+Nguyen+Tung+Duong+%F0%9F%98%8B;Backend+focused,+system+driven+%F0%9F%9A%80;Building+reliable+and+scalable+solutions+%F0%9F%92%BB;Learning+quietly,+improving+daily+%F0%9F%94%A5" alt="Typing SVG" />
-</p>
 
 ---
 
-## 🚀 What I'm Focused On
+<h2 style="font-family: Allenoire, Allenoife, serif; color: #F5E6C8; font-weight: 800;">🚀 What I'm Focused On</h2>
 
 - Designing and building reliable, optimized, and scalable **Backend** systems.
 - Developing web applications that solve practical business problems.
@@ -20,7 +19,7 @@
 
 ## [![Nguyễn Tùng Dương's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=NguyenTungDuong18&bg_color=0D1117&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&area_color=007ACC&hide_border=true&custom_title=Nguy%E1%BB%85n%20T%C3%B9ng%20D%C6%B0%C6%A1ng's%20Contribution%20Graph)](https://github.com/NguyenTungDuong18)
 
-## 🎯 Goals
+<h2 style="font-family: Allenoire, Allenoife, serif; color: #F5E6C8; font-weight: 800;">🎯 Goals</h2>
 
 - Grow into a professional **Backend Developer / Solutions Architect** capable of designing large-scale distributed systems.
 - Improve system design, code performance, and backend engineering skills with **.NET 8**, **Java**, **Node.js**, and **TypeScript**.
@@ -30,7 +29,7 @@
 
 ---
 
-## 🌟 About Me
+<h2 style="font-family: Allenoire, Allenoife, serif; color: #F5E6C8; font-weight: 800;">🌟 About Me</h2>
 
 I'm **Nguyễn Tùng Dương**, an **Information Technology** student at **FPT University** from the **2023 - 2027** cohort, with a strong focus on **Backend Development**.
 
@@ -54,7 +53,7 @@ Currently, I am focused on strengthening my expertise in:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=2&section=header" width="100%"/>
 
-## 🏆 Hackathons & Projects
+<h2 style="font-family: Allenoire, Allenoife, serif; color: #F5E6C8; font-weight: 800;">🏆 Hackathons & Projects</h2>
 
 - **Devpost Reddit Mod Tools and Migrated Apps Hackathon** — Researched and developed tools for application optimization and system integration.
 - **SmartCenter (.NET 8 Web API)** — An automated exam management and grading system integrated with a Mail Notification Service.
@@ -64,42 +63,42 @@ Currently, I am focused on strengthening my expertise in:
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> <b>Skills & Tech Stack</b>
+<h2 style="font-family: Allenoire, Allenoife, serif; color: #F5E6C8; font-weight: 800;"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Skills & Tech Stack</h2>
 
-### Languages
+<h3 style="font-family: Allenoire, Allenoife, serif; color: #F5E6C8; font-weight: 800;">Languages</h3>
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Backend & Frameworks
+<h3 style="font-family: Allenoire, Allenoife, serif; color: #F5E6C8; font-weight: 800;">Backend & Frameworks</h3>
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-### Frontend
+<h3 style="font-family: Allenoire, Allenoife, serif; color: #F5E6C8; font-weight: 800;">Frontend</h3>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Databases
+<h3 style="font-family: Allenoire, Allenoife, serif; color: #F5E6C8; font-weight: 800;">Databases</h3>
 
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Tools & DevOps
+<h3 style="font-family: Allenoire, Allenoife, serif; color: #F5E6C8; font-weight: 800;">Tools & DevOps</h3>
 
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<h2 align="center">📊 My GitHub Activities</h2>
+<h2 align="center" style="font-family: Allenoire, Allenoife, serif; color: #F5E6C8; font-weight: 800;">📊 My GitHub Activities</h2>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=NguyenTungDuong18&theme=tokyonight&hide_border=false&border=00BFFF&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" alt="GitHub Streak Stats" width="65%" />
@@ -124,7 +123,7 @@ Currently, I am focused on strengthening my expertise in:
 
 ---
 
-## 📫 Reach me at
+<h2 style="font-family: Allenoire, Allenoife, serif; color: #F5E6C8; font-weight: 800;">📫 Reach me at</h2>
 
 - **📧 Gmail:** [duongbilly18012004@gmail.com](mailto:duongbilly18012004@gmail.com)
 - **📘 Facebook:** [facebook.com/tung.duong.225106](https://www.facebook.com/tung.duong.225106/)
