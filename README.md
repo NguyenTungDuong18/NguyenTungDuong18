@@ -10,32 +10,37 @@
 
 <h2 style="font-family: Allenoire, Allenoife, serif; color: #F5E6C8; font-weight: 800;">🚀 What I'm Focused On</h2>
 
-- Designing and building reliable, optimized, and scalable **Backend** systems.
-- Developing web applications that solve practical business problems.
-- Studying software architecture, data flow, and database performance optimization.
-- Strengthening system thinking, discipline, and self-learning through hands-on projects every day.
+- Designing reliable, secure, and scalable **Backend** systems.
+- Building Web APIs that turn real requirements into practical software solutions.
+- Learning software architecture, data flow, and database optimization through hands-on projects.
+- Strengthening my engineering mindset through consistency, discipline, and continuous improvement.
+- Exploring how backend systems, databases, and product thinking connect in real-world applications.
 
 ---
 
-## [![Nguyễn Tùng Dương's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=NguyenTungDuong18&bg_color=0D1117&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&area_color=007ACC&hide_border=true&custom_title=Nguy%E1%BB%85n%20T%C3%B9ng%20D%C6%B0%C6%A1ng's%20Contribution%20Graph)](https://github.com/NguyenTungDuong18)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenTungDuong18&bg_color=0D1117&color=F5E6C8&line=F5E6C8&point=FFFFFF&area=true&area_color=C8A96A&hide_border=true&custom_title=Nguyen%20Tung%20Duong's%20Contribution%20Graph" alt="Nguyen Tung Duong's Contribution Graph" width="100%" />
+</p>
 
 <h2 style="font-family: Allenoire, Allenoife, serif; color: #F5E6C8; font-weight: 800;">🎯 Goals</h2>
 
 - Grow into a professional **Backend Developer / Solutions Architect** capable of designing large-scale distributed systems.
-- Improve system design, code performance, and backend engineering skills with **.NET 8**, **Java**, **Node.js**, and **TypeScript**.
-- Gain practical experience with data management and optimization using **SQL Server**, **PostgreSQL**, **MySQL**, and **MongoDB**.
-- Successfully complete my studies at **FPT University** and achieve the **Japanese N5** certification.
-- Build a strong portfolio that demonstrates backend thinking, system design ability, and real-world product execution.
+- Improve my expertise in **system design**, **API development**, and backend performance optimization.
+- Build strong technical foundations with **.NET 8**, **Java**, **Node.js**, **TypeScript**, and SQL-based databases.
+- Create practical projects that demonstrate clean architecture, reliable data handling, and real-world problem solving.
+- Keep improving through consistent practice, collaboration, and lifelong learning.
 
 ---
 
 <h2 style="font-family: Allenoire, Allenoife, serif; color: #F5E6C8; font-weight: 800;">🌟 About Me</h2>
 
-I'm **Nguyễn Tùng Dương**, an **Information Technology** student at **FPT University** from the **2023 - 2027** cohort, with a strong focus on **Backend Development**.
+I'm **Nguyễn Tùng Dương**, an **Information Technology** student at **FPT University** from the **2023 - 2027** cohort, focused on **Backend Development** and system-oriented engineering.
 
-I enjoy solving logical problems, organizing data structures, and building server-side foundations that are stable, secure, and scalable.
+I enjoy solving logical problems, designing clean data structures, and building server-side foundations that are stable, secure, and scalable.
 
-To me, programming is not only about writing code. It is also a process of training discipline, sharpening problem-solving skills, and turning ideas into practical products.
+My interests lie in **backend engineering**, **software architecture**, **database design**, and the process of turning ideas into useful digital products.
+
+> **"Great software is built one thoughtful decision at a time."**
 
 Currently, I am focused on strengthening my expertise in:
 
@@ -46,22 +51,12 @@ Currently, I am focused on strengthening my expertise in:
 - Product-Oriented Problem Solving
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Backend%20Development-00BFFF?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/System%20Design-00BFFF?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database%20Optimization-00BFFF?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend%20Development-F5E6C8?style=flat-square&labelColor=111111&color=F5E6C8" />
+  <img src="https://img.shields.io/badge/System%20Design-F5E6C8?style=flat-square&labelColor=111111&color=F5E6C8" />
+  <img src="https://img.shields.io/badge/Database%20Optimization-F5E6C8?style=flat-square&labelColor=111111&color=F5E6C8" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00BFFF&height=2&section=header" width="100%"/>
-
-<h2 style="font-family: Allenoire, Allenoife, serif; color: #F5E6C8; font-weight: 800;">🏆 Hackathons & Projects</h2>
-
-- **Devpost Reddit Mod Tools and Migrated Apps Hackathon** — Researched and developed tools for application optimization and system integration.
-- **SmartCenter (.NET 8 Web API)** — An automated exam management and grading system integrated with a Mail Notification Service.
-- **IoT Smart Parking System** — A smart parking solution using ESP32, Arduino, and Blynk for automatic gate control.
-- **Charity Management Blockchain** — A transparent charity transaction management simulation on Sepolia Testnet using Node.js and MongoDB.
-- **Online Course Registration System** — An online course registration application built with Java Web, JSP, Servlet, JSTL, and SQL Server.
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F5E6C8&height=2&section=header" width="100%"/>
 
 <h2 style="font-family: Allenoire, Allenoife, serif; color: #F5E6C8; font-weight: 800;"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Skills & Tech Stack</h2>
 
@@ -95,30 +90,32 @@ Currently, I am focused on strengthening my expertise in:
 
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <h2 align="center" style="font-family: Allenoire, Allenoife, serif; color: #F5E6C8; font-weight: 800;">📊 My GitHub Activities</h2>
 
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="50%" style="vertical-align: middle; border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenTungDuong18&layout=compact&bg_color=111111&title_color=F5E6C8&text_color=F5F5F5&border_color=F5E6C8&hide_border=false" alt="Top Languages" width="100%" />
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api?username=NguyenTungDuong18&show_icons=true&include_all_commits=true&count_private=true&bg_color=111111&title_color=F5E6C8&text_color=F5F5F5&icon_color=F5E6C8&border_color=F5E6C8&hide_border=false" alt="GitHub Stats" width="100%" />
+    </td>
+    <td width="50%" align="center" style="vertical-align: middle; border: none;">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=NguyenTungDuong18&theme=dark&background=111111&border=F5E6C8&stroke=F5E6C8&ring=F5E6C8&fire=F5E6C8&currStreakNum=F5E6C8&sideNums=F5E6C8&currStreakLabel=F5E6C8&sideLabels=F5E6C8&dates=F5F5F5" alt="GitHub Streak Stats" width="100%" />
+      <br/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NguyenTungDuong18&theme=github_dark" alt="GitHub Profile Summary" width="100%" />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NguyenTungDuong18&theme=tokyonight&hide_border=false&border=00BFFF&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" alt="GitHub Streak Stats" width="65%" />
+  <i><b>"Discipline turns small daily efforts into long-term progress."</b></i>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NguyenTungDuong18&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&border_color=00BFFF" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenTungDuong18&layout=compact&theme=tokyonight&border_color=00BFFF" alt="Top Languages" width="37%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NguyenTungDuong18&theme=tokyonight" alt="GitHub Profile Summary" width="90%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NguyenTungDuong18&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" width="90%" />
-</p>
-
-<p align="center">
-  <i>"Hustling quietly, building relentlessly, improving continuously."</i>
+  <i><b>"Build quietly. Improve consistently. Let the work speak."</b></i>
 </p>
 
 ---
@@ -132,11 +129,11 @@ Currently, I am focused on strengthening my expertise in:
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NguyenTungDuong18&style=flat-square&color=00BFFF" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=NguyenTungDuong18&style=flat-square&color=F5E6C8" alt="Visitor Count" />
 </p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NguyenTungDuong18/NguyenTungDuong18/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NguyenTungDuong18/NguyenTungDuong18/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/NguyenTungDuong18/NguyenTungDuong18/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/NguyenTungDuong18/NguyenTungDuong18/output/pacman-contribution-graph.svg" width="100%">
 </picture>
