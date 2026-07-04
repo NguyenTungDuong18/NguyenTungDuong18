@@ -145,31 +145,11 @@ Currently, I am focused on strengthening my expertise in:
 <div style="width: 70%; height: 2px; margin: 4px auto 18px auto; background: linear-gradient(90deg, transparent, #5DADE2, #85C1E9, #5DADE2, transparent); border-radius: 2px;"></div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NguyenTungDuong18&show_icons=true&include_all_commits=true&count_private=true&title_color=5DADE2&text_color=FFFFFF&icon_color=5DADE2&border_color=5DADE2&bg_color=111111" alt="GitHub Stats" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NguyenTungDuong18&show_icons=true&include_all_commits=true&count_private=true&title_color=5DADE2&text_color=FFFFFF&icon_color=5DADE2&border_color=5DADE2&bg_color=111111" alt="GitHub Stats" width="58%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenTungDuong18&layout=compact&title_color=5DADE2&text_color=FFFFFF&border_color=5DADE2&bg_color=111111" alt="Top Languages" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NguyenTungDuong18&theme=dark&background=111111&border=5DADE2&stroke=5DADE2&ring=5DADE2&fire=5DADE2&currStreakNum=5DADE2&sideNums=5DADE2&currStreakLabel=5DADE2&sideLabels=5DADE2&dates=FFFFFF" alt="GitHub Streak Stats" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NguyenTungDuong18&theme=github_dark" alt="GitHub Profile Summary" width="90%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NguyenTungDuong18&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" width="90%" />
-</p>
-
-<p align="center">
-  <i><b>"Discipline turns small daily efforts into long-term progress."</b></i>
-</p>
-
-<p align="center">
-  <i><b>"Build quietly. Improve consistently. Let the work speak."</b></i>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenTungDuong18&layout=compact&title_color=5DADE2&text_color=FFFFFF&border_color=5DADE2&bg_color=111111" alt="Top Languages" width="58%" />
 </p>
 
 ---
