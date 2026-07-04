@@ -11,10 +11,10 @@
 
 ## 🚀 What I'm Focused On
 
-- Thiết kế và xây dựng các hệ thống **Backend** tối ưu, ổn định và có khả năng mở rộng.
-- Phát triển các ứng dụng Web đáp ứng chính xác các yêu cầu nghiệp vụ thực tế.
-- Nghiên cứu kiến trúc phần mềm, luồng dữ liệu và tối ưu hóa cơ sở dữ liệu.
-- Rèn luyện tư duy hệ thống, tính kỷ luật và khả năng tự học thông qua dự án mỗi ngày.
+- Designing and building reliable, optimized, and scalable **Backend** systems.
+- Developing web applications that solve practical business problems.
+- Studying software architecture, data flow, and database performance optimization.
+- Strengthening system thinking, discipline, and self-learning through hands-on projects every day.
 
 ---
 
@@ -22,23 +22,23 @@
 
 ## 🎯 Goals
 
-- Trở thành một **Backend Developer / Solutions Architect** chuyên nghiệp, có khả năng làm chủ các hệ thống phân tán quy mô lớn.
-- Nâng cao năng lực phân tích thiết kế hệ thống và tối ưu hóa hiệu năng với **.NET 8**, **Java**, **Node.js** và **TypeScript**.
-- Tích lũy kinh nghiệm thực tế về quản trị dữ liệu trên **SQL Server**, **PostgreSQL**, **MySQL** và **MongoDB**.
-- Hoàn thành tốt chương trình học tại **Đại học FPT** và đạt chứng chỉ tiếng Nhật **N5**.
-- Xây dựng portfolio thể hiện rõ tư duy backend, tư duy hệ thống và khả năng triển khai sản phẩm thực tế.
+- Grow into a professional **Backend Developer / Solutions Architect** capable of designing large-scale distributed systems.
+- Improve system design, code performance, and backend engineering skills with **.NET 8**, **Java**, **Node.js**, and **TypeScript**.
+- Gain practical experience with data management and optimization using **SQL Server**, **PostgreSQL**, **MySQL**, and **MongoDB**.
+- Successfully complete my studies at **FPT University** and achieve the **Japanese N5** certification.
+- Build a strong portfolio that demonstrates backend thinking, system design ability, and real-world product execution.
 
 ---
 
 ## 🌟 About Me
 
-Tôi là **Nguyễn Tùng Dương**, sinh viên chuyên ngành **Công nghệ thông tin** tại **Đại học FPT** khóa **2023 - 2027**, định hướng chuyên sâu vào **Backend Development**.
+I'm **Nguyễn Tùng Dương**, an **Information Technology** student at **FPT University** from the **2023 - 2027** cohort, with a strong focus on **Backend Development**.
 
-Tôi yêu thích việc giải quyết các bài toán logic, tổ chức dữ liệu khoa học và xây dựng nền tảng phía sau hệ thống hoạt động ổn định, bảo mật và có khả năng mở rộng.
+I enjoy solving logical problems, organizing data structures, and building server-side foundations that are stable, secure, and scalable.
 
-Với tôi, lập trình không chỉ là viết mã nguồn, mà còn là quá trình rèn luyện tư duy, tính kỷ luật và khả năng biến ý tưởng thành sản phẩm có giá trị thực tế.
+To me, programming is not only about writing code. It is also a process of training discipline, sharpening problem-solving skills, and turning ideas into practical products.
 
-Hiện tại, tôi tập trung phát triển năng lực ở các mảng:
+Currently, I am focused on strengthening my expertise in:
 
 - Backend Development & API Design
 - Software Architecture & System Design
@@ -56,11 +56,11 @@ Hiện tại, tôi tập trung phát triển năng lực ở các mảng:
 
 ## 🏆 Hackathons & Projects
 
-- **Devpost Reddit Mod Tools and Migrated Apps Hackathon** — Dự án nghiên cứu phát triển công cụ tối ưu hóa ứng dụng và tích hợp hệ thống.
-- **SmartCenter (.NET 8 Web API)** — Hệ thống quản lý và chấm điểm thi tự động, tích hợp Mail Notification Service.
-- **IoT Smart Parking System** — Giải pháp bãi đỗ xe thông minh dùng ESP32, Arduino và Blynk.
-- **Charity Management Blockchain** — Hệ thống mô phỏng quản lý giao dịch từ thiện minh bạch trên Sepolia Testnet với Node.js và MongoDB.
-- **Online Course Registration System** — Ứng dụng đăng ký môn học trực tuyến bằng Java Web, JSP, Servlet, JSTL và SQL Server.
+- **Devpost Reddit Mod Tools and Migrated Apps Hackathon** — Researched and developed tools for application optimization and system integration.
+- **SmartCenter (.NET 8 Web API)** — An automated exam management and grading system integrated with a Mail Notification Service.
+- **IoT Smart Parking System** — A smart parking solution using ESP32, Arduino, and Blynk for automatic gate control.
+- **Charity Management Blockchain** — A transparent charity transaction management simulation on Sepolia Testnet using Node.js and MongoDB.
+- **Online Course Registration System** — An online course registration application built with Java Web, JSP, Servlet, JSTL, and SQL Server.
 
 ---
 
@@ -101,20 +101,22 @@ Hiện tại, tôi tập trung phát triển năng lực ở các mảng:
 
 <h2 align="center">📊 My GitHub Activities</h2>
 
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td width="50%" style="vertical-align: middle; border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenTungDuong18&layout=compact&bg_color=111111&title_color=00BFFF&text_color=F5F5F5&border_color=00BFFF&hide_border=false" alt="Top Languages" width="100%" />
-      <br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=NguyenTungDuong18&show_icons=true&include_all_commits=true&count_private=true&bg_color=111111&title_color=00BFFF&text_color=F5F5F5&icon_color=00BFFF&border_color=00BFFF&hide_border=false" alt="GitHub Stats" width="100%" />
-    </td>
-    <td width="50%" align="center" style="vertical-align: middle; border: none;">
-      <img src="https://streak-stats.demolab.com/?user=NguyenTungDuong18&theme=tokyonight&hide_border=false&border=00BFFF" alt="GitHub Streak" width="95%" />
-      <br/>
-      <img src="https://github-profile-trophy.vercel.app/?username=NguyenTungDuong18&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" width="95%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NguyenTungDuong18&theme=tokyonight&hide_border=false&border=00BFFF&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" alt="GitHub Streak Stats" width="65%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NguyenTungDuong18&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&border_color=00BFFF" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenTungDuong18&layout=compact&theme=tokyonight&border_color=00BFFF" alt="Top Languages" width="37%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NguyenTungDuong18&theme=tokyonight" alt="GitHub Profile Summary" width="90%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NguyenTungDuong18&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" width="90%" />
+</p>
 
 <p align="center">
   <i>"Hustling quietly, building relentlessly, improving continuously."</i>
