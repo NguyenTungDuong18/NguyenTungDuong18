@@ -13,7 +13,12 @@
 
 ---
 
-<h2 style="font-family: Allenoire, Allenoife, serif; color: #5DADE2; font-weight: 800;">🚀 What I'm Focused On</h2>
+<div style="filter: drop-shadow(0 0 12px rgba(93,175,226,0.4)); margin: 25px 0 8px 0;">
+  <h2 style="font-family: Allenoire, Allenoife, serif; font-weight: 800; display: inline-block; background: linear-gradient(135deg, #5DADE2, #AED6F1, #85C1E9, #5DADE2); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
+    🚀 What I'm Focused On
+  </h2>
+</div>
+<div style="width: 70%; height: 2px; margin: 4px auto 18px auto; background: linear-gradient(90deg, transparent, #5DADE2, #85C1E9, #5DADE2, transparent); border-radius: 2px;"></div>
 
 - Designing reliable, secure, and scalable **Backend** systems.
 - Building Web APIs that turn real requirements into practical software solutions.
@@ -27,7 +32,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenTungDuong18&bg_color=0D1117&color=5DADE2&line=5DADE2&point=FFFFFF&area=true&area_color=5DADE2&hide_border=true&custom_title=Nguyen%20Tung%20Duong's%20Contribution%20Graph" alt="Nguyen Tung Duong's Contribution Graph" width="100%" />
 </p>
 
-<h2 style="font-family: Allenoire, Allenoife, serif; color: #5DADE2; font-weight: 800;">🎯 Goals</h2>
+<div style="filter: drop-shadow(0 0 12px rgba(93,175,226,0.4)); margin: 25px 0 8px 0;">
+  <h2 style="font-family: Allenoire, Allenoife, serif; font-weight: 800; display: inline-block; background: linear-gradient(135deg, #5DADE2, #AED6F1, #85C1E9, #5DADE2); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
+    🎯 Goals
+  </h2>
+</div>
+<div style="width: 70%; height: 2px; margin: 4px auto 18px auto; background: linear-gradient(90deg, transparent, #5DADE2, #85C1E9, #5DADE2, transparent); border-radius: 2px;"></div>
 
 - Grow into a professional **Backend Developer / Solutions Architect** capable of designing large-scale distributed systems.
 - Improve my expertise in **system design**, **API development**, and backend performance optimization.
@@ -37,7 +47,12 @@
 
 ---
 
-<h2 style="font-family: Allenoire, Allenoife, serif; color: #5DADE2; font-weight: 800;">🌟 About Me</h2>
+<div style="filter: drop-shadow(0 0 12px rgba(93,175,226,0.4)); margin: 25px 0 8px 0;">
+  <h2 style="font-family: Allenoire, Allenoife, serif; font-weight: 800; display: inline-block; background: linear-gradient(135deg, #5DADE2, #AED6F1, #85C1E9, #5DADE2); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
+    🌟 About Me
+  </h2>
+</div>
+<div style="width: 70%; height: 2px; margin: 4px auto 18px auto; background: linear-gradient(90deg, transparent, #5DADE2, #85C1E9, #5DADE2, transparent); border-radius: 2px;"></div>
 
 I'm **Nguyễn Tùng Dương**, an **Information Technology** student at **FPT University** from the **2023 - 2027** cohort, focused on **Backend Development** and system-oriented engineering.
 
@@ -63,41 +78,71 @@ Currently, I am focused on strengthening my expertise in:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=5DADE2&height=2&section=header" width="100%"/>
 
-<h2 style="font-family: Allenoire, Allenoife, serif; color: #5DADE2; font-weight: 800;"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Skills & Tech Stack</h2>
+<div style="filter: drop-shadow(0 0 12px rgba(93,175,226,0.4)); margin: 25px 0 8px 0;">
+  <h2 style="font-family: Allenoire, Allenoife, serif; font-weight: 800; display: inline-block; background: linear-gradient(135deg, #5DADE2, #AED6F1, #85C1E9, #5DADE2); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Skills & Tech Stack
+  </h2>
+</div>
+<div style="width: 70%; height: 2px; margin: 4px auto 18px auto; background: linear-gradient(90deg, transparent, #5DADE2, #85C1E9, #5DADE2, transparent); border-radius: 2px;"></div>
 
-<h3 style="font-family: Allenoire, Allenoife, serif; color: #5DADE2; font-weight: 800;">Languages</h3>
+<div style="filter: drop-shadow(0 0 8px rgba(93,175,226,0.35)); margin: 20px 0 4px 0;">
+  <h3 style="font-family: Allenoire, Allenoife, serif; font-weight: 800; display: inline-block; background: linear-gradient(135deg, #85C1E9, #AED6F1, #85C1E9); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
+    Languages
+  </h3>
+</div>
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-<h3 style="font-family: Allenoire, Allenoife, serif; color: #5DADE2; font-weight: 800;">Backend & Frameworks</h3>
+<div style="filter: drop-shadow(0 0 8px rgba(93,175,226,0.35)); margin: 20px 0 4px 0;">
+  <h3 style="font-family: Allenoire, Allenoife, serif; font-weight: 800; display: inline-block; background: linear-gradient(135deg, #85C1E9, #AED6F1, #85C1E9); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
+    Backend & Frameworks
+  </h3>
+</div>
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-<h3 style="font-family: Allenoire, Allenoife, serif; color: #5DADE2; font-weight: 800;">Frontend</h3>
+<div style="filter: drop-shadow(0 0 8px rgba(93,175,226,0.35)); margin: 20px 0 4px 0;">
+  <h3 style="font-family: Allenoire, Allenoife, serif; font-weight: 800; display: inline-block; background: linear-gradient(135deg, #85C1E9, #AED6F1, #85C1E9); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
+    Frontend
+  </h3>
+</div>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<h3 style="font-family: Allenoire, Allenoife, serif; color: #5DADE2; font-weight: 800;">Databases</h3>
+<div style="filter: drop-shadow(0 0 8px rgba(93,175,226,0.35)); margin: 20px 0 4px 0;">
+  <h3 style="font-family: Allenoire, Allenoife, serif; font-weight: 800; display: inline-block; background: linear-gradient(135deg, #85C1E9, #AED6F1, #85C1E9); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
+    Databases
+  </h3>
+</div>
 
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<h3 style="font-family: Allenoire, Allenoife, serif; color: #5DADE2; font-weight: 800;">Tools & DevOps</h3>
+<div style="filter: drop-shadow(0 0 8px rgba(93,175,226,0.35)); margin: 20px 0 4px 0;">
+  <h3 style="font-family: Allenoire, Allenoife, serif; font-weight: 800; display: inline-block; background: linear-gradient(135deg, #85C1E9, #AED6F1, #85C1E9); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
+    Tools & DevOps
+  </h3>
+</div>
 
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<h2 align="center" style="font-family: Allenoire, Allenoife, serif; color: #5DADE2; font-weight: 800;">📊 My GitHub Activities</h2>
+<div style="filter: drop-shadow(0 0 12px rgba(93,175,226,0.4)); margin: 25px 0 8px 0;">
+  <h2 align="center" style="font-family: Allenoire, Allenoife, serif; font-weight: 800; display: inline-block; background: linear-gradient(135deg, #5DADE2, #AED6F1, #85C1E9, #5DADE2); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
+    📊 My GitHub Activities
+  </h2>
+</div>
+<div style="width: 70%; height: 2px; margin: 4px auto 18px auto; background: linear-gradient(90deg, transparent, #5DADE2, #85C1E9, #5DADE2, transparent); border-radius: 2px;"></div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NguyenTungDuong18&show_icons=true&include_all_commits=true&count_private=true&title_color=5DADE2&text_color=FFFFFF&icon_color=5DADE2&border_color=5DADE2&bg_color=111111" alt="GitHub Stats" width="60%" />
@@ -129,7 +174,12 @@ Currently, I am focused on strengthening my expertise in:
 
 ---
 
-<h2 style="font-family: Allenoire, Allenoife, serif; color: #5DADE2; font-weight: 800;">📫 Reach me at 😎</h2>
+<div style="filter: drop-shadow(0 0 12px rgba(93,175,226,0.4)); margin: 25px 0 8px 0;">
+  <h2 style="font-family: Allenoire, Allenoife, serif; font-weight: 800; display: inline-block; background: linear-gradient(135deg, #5DADE2, #AED6F1, #85C1E9, #5DADE2); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
+    📫 Reach me at 😎
+  </h2>
+</div>
+<div style="width: 70%; height: 2px; margin: 4px auto 18px auto; background: linear-gradient(90deg, transparent, #5DADE2, #85C1E9, #5DADE2, transparent); border-radius: 2px;"></div>
 
 - **📧 Gmail:** [duongbilly18012004@gmail.com](mailto:duongbilly18012004@gmail.com)
 - **📘 Facebook:** [facebook.com/tung.duong.225106](https://www.facebook.com/tung.duong.225106/)
