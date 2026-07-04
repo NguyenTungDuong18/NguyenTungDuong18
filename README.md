@@ -143,7 +143,7 @@ Currently, I am focused on strengthening my expertise in:
 <div style="width: 70%; height: 2px; margin: 4px auto 18px auto; background: linear-gradient(90deg, transparent, #5DADE2, #85C1E9, #5DADE2, transparent); border-radius: 2px;"></div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NguyenTungDuong18&theme=dark&background=111111&border=5DADE2&stroke=5DADE2&ring=5DADE2&fire=5DADE2&currStreakNum=5DADE2&sideNums=5DADE2&currStreakLabel=5DADE2&sideLabels=5DADE2&dates=FFFFFF" alt="GitHub Streak Stats" width="65%" />
+  <img src="https://streak-stats.demolab.com/?user=NguyenTungDuong18&theme=dark&background=111111&border=5DADE2&stroke=5DADE2&ring=5DADE2&fire=5DADE2&currStreakNum=5DADE2&sideNums=5DADE2&currStreakLabel=5DADE2&sideLabels=5DADE2&dates=FFFFFF" alt="GitHub Streak Stats" width="65%" />
 </p>
 
 <p align="center">
