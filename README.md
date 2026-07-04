@@ -1,3 +1,5 @@
+<div style="background-color: #FFFDF5; padding: 30px 20px; border-radius: 20px;">
+
 <h1 align="center">
   <b>
     <span style="font-family: 'Times New Roman', Times, serif; color: #5DADE2; font-weight: 800;">
@@ -172,3 +174,4 @@ Currently, I am focused on strengthening my expertise in:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NguyenTungDuong18/NguyenTungDuong18/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/NguyenTungDuong18/NguyenTungDuong18/output/pacman-contribution-graph.svg" width="100%">
 </picture>
+</div>
