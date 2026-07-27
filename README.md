@@ -142,13 +142,21 @@ Currently, I am focused on strengthening my expertise in:
 </div>
 <div style="width: 70%; height: 2px; margin: 4px auto 18px auto; background: linear-gradient(90deg, transparent, #5DADE2, #85C1E9, #5DADE2, transparent); border-radius: 2px;"></div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=NguyenTungDuong18&theme=dark&background=111111&border=5DADE2&stroke=5DADE2&ring=5DADE2&fire=5DADE2&currStreakNum=5DADE2&sideNums=5DADE2&currStreakLabel=5DADE2&sideLabels=5DADE2&dates=FFFFFF" alt="GitHub Streak Stats" width="65%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenTungDuong18&bg_color=0D1117&color=5DADE2&line=5DADE2&point=FFFFFF&area=true&area_color=5DADE2&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%" />
-</p>
+![](https://streak-stats.demolab.com?user=NguyenTungDuong18&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=NguyenTungDuong18&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NguyenTungDuong18&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+<div align="center">
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=NguyenTungDuong18`&theme=tokyo-night&hide_border=true)
+
+</div>
 
 ---
 
@@ -161,7 +169,7 @@ Currently, I am focused on strengthening my expertise in:
 
 - **📧 Gmail:** [duongbilly18012004@gmail.com](mailto:duongbilly18012004@gmail.com)
 - **📘 Facebook:** [facebook.com/tung.duong.225106](https://www.facebook.com/tung.duong.225106/)
-- **📸 Instagram:** [instagram.com/_d1.lly](https://www.instagram.com/_d1.lly/)
+- **📸 Instagram:** [instagram.com/\_d1.lly](https://www.instagram.com/_d1.lly/)
 
 ---
 
