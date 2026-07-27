@@ -154,7 +154,7 @@ Currently, I am focused on strengthening my expertise in:
 
 <div align="center">
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=NguyenTungDuong18`&theme=tokyo-night&hide_border=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=NguyenTungDuong18&theme=tokyo-night&hide_border=true)
 
 </div>
 
