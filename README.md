@@ -47,7 +47,7 @@ I enjoy solving logical problems, designing clean data structures and building s
 ### 📊 Stats
 
 <p align="center">
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NguyenTungDuong18&theme=tokyonight" alt="GitHub stats">
+  <img height="150" src="https://github-stats-extended.vercel.app/api?username=NguyenTungDuong18&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats">
   <img height="150" src="https://streak-stats.demolab.com?user=NguyenTungDuong18&theme=tokyonight&hide_border=true" alt="Contribution streak">
 </p>
 
