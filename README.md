@@ -32,23 +32,15 @@ I enjoy solving logical problems, designing clean data structures and building s
 
 **Backend Developer ➜ DevOps Engineer.** I don't want to just write code. I want to own it all the way to production: build it, ship it automatically, keep it running and know when it breaks.
 
-| Stage | Quest | Status |
-|---|---|---|
-| 🟩 **Lv.1 Build** | Production .NET APIs, PostgreSQL, unit testing | ✅ Cleared |
-| 🟩 **Lv.2 Ship** | Docker, Docker Compose, CI/CD with GitHub Actions in a real project | ✅ Cleared |
-| 🟨 **Lv.3 Operate** | Linux & networking, Nginx, Bash scripting, cloud fundamentals (AWS) | ⏳ In progress |
-| ⬜ **Lv.4 Scale** | Kubernetes, Infrastructure as Code (Terraform) | 🔒 Next |
-| ⬜ **Lv.5 Observe** | Monitoring & logging (Prometheus, Grafana), incident response | 🔒 Next |
-| 🏁 **Boss** | AWS / Kubernetes certification and a fully automated, self-healing pipeline | 🎯 Goal |
+**Where I'm heading**
+- 🚀 Grow from a solid backend foundation into a **DevOps Engineer**.
+- ⚙️ Build systems that ship automatically, run reliably and recover quickly.
+- 🌐 Understand the full journey of software, from a line of code to a running service.
 
-**My rules to get there**
+**How I get there**
 - 📅 Learn and build something every day. The commit graph below keeps me honest.
-- 🛠️ Learn by shipping: each new tool goes into a real project, not just a tutorial.
-- 📝 Document what I learn so the next person (and future me) can follow.
-
-### 🔥 Currently leveling up
-
-`Linux` · `Networking` · `AWS` · `Kubernetes` · `Terraform` · `System Design`
+- 🛠️ Learn by doing: put new knowledge into real projects, not just tutorials.
+- 🔁 Stay curious, take feedback, and keep improving one step at a time.
 
 ### 🎒 Inventory
 
