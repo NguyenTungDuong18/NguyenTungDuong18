@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="assets/pixel-banner.svg" width="100%" alt="Pixel pilot running under a flying plane, sprites from my game Pixel Vocab Flight">
+  <img src="assets/pixel-banner.svg" width="100%" alt="Nguyen Tung Duong - Backend Developer, animated pixel banner with sprites from my game Pixel Vocab Flight">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2800&pause=900&color=5DADE2&center=true&vCenter=true&width=640&height=40&lines=PLAYER+1%3A+NGUYEN+TUNG+DUONG;CLASS%3A+BACKEND+DEVELOPER;LEARNING+QUIETLY%2C+IMPROVING+DAILY;PRESS+START+%E2%96%B6" alt="Player 1: Nguyen Tung Duong - Backend Developer - Learning quietly, improving daily">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2800&pause=900&color=5DADE2&center=true&vCenter=true&width=640&height=40&lines=LEARNING+QUIETLY%2C+IMPROVING+DAILY;NEXT+STAGE%3A+DEVOPS;PRESS+START+%E2%96%B6" alt="Learning quietly, improving daily - Next stage: DevOps">
 </p>
 
 <p align="center">
